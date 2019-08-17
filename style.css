@@ -1,0 +1,61 @@
+body {
+	background-color: #D0E1D4;
+	color: #312F2F;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+	text-align: center;
+}
+
+h1 {
+	color: #4C8577;
+	font-size: 80px;
+	font-family: 'Mr Dafoe', cursive;
+	font-weight: lighter;}
+
+h2 {
+	color: #A59E8C;
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+a {
+	color: #4C8577;
+}
+
+a:hover {
+	color: #A59E8C;
+}
+
+#banner {
+	width: 100vw;
+}
+
+#logo {
+	width: 8%;
+	padding: 10px;
+}
+
+#button {
+	margin: 20px;
+}
+
+#footer {
+	margin: 30px;
+}
+
+.btn {
+	margin: 10px;
+}
+
+.caixa {
+	text-align: center;
+	box-shadow: 2px 2px 2px #A59E8C;
+	height: 270px;
+	width: 270px;
+	background-color: rgba(145, 199, 162, 0.3);
+}
+
+.fab {
+	color: #4C8577;
+	font-size: 25px;
+}
